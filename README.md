@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Emily Costa. I love mathematics and computers.  Check out [my website](https://emilyjcosta5.github.io/) for more juicy details about me!
 <!--
 **emilyjcosta5/emilyjcosta5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
