@@ -1,5 +1,13 @@
 ### Hi there 👋
-My name is Emily Costa. I love mathematics and computers.  Check out [my website](https://emilyjcosta5.github.io/) for more juicy details about me!
+My name is Emily Costa. I love mathematics and computers.  
+
+I am currently completing my Ph.D. in Computer Engineering at Northeastern University in Boston, Massachusetts, U.S.A.. 
+
+I am a full GEM fellow, sponsored by Oak Ridge National Laboratory, through the National Consortium for Graduate Degrees for Minorities in Engineering and Science, Inc. 
+
+I completed my B.S. in Mathematics with a Computer Science track at Florida International University in Miami, Florida, U.S.A..
+
+Check out [my website](https://emilyjcosta5.github.io/) (under construction) for more juicy details about me!
 <!--
 **emilyjcosta5/emilyjcosta5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
