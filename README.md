@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Emily Costa. I love mathematics and computers.  
 
-I am currently completing my Ph.D. in Computer Engineering at Northeastern University in Boston, Massachusetts, U.S.A.. 
+I am currently completing my graduate degree in Computer Engineering at Northeastern University in Boston, Massachusetts, U.S.A.. 
 
 I am a full GEM fellow, sponsored by Oak Ridge National Laboratory, through the National Consortium for Graduate Degrees for Minorities in Engineering and Science, Inc. 
 
